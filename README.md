@@ -16,5 +16,4 @@ Dwarf Game is a 2D side-scrolling game written in assembly. The game consists of
 
 ## Contributions
 This part of the project (Dwarf Game) was developed by me. I did not work on the other sections of the project. Feel free to submit issues, feature requests, or pull requests to improve the game.
-
-
+Developed as part of Cairo University’s **Microprocessors** course.  
